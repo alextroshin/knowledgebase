@@ -6,17 +6,19 @@ description: О процессах разработке сейчас и завт
 
 ## Что мы используем?
 
-### Unity3d
+#### Основные инструменты
 
-Актуальную версию для небольших проектов и LTS-версию для долгосрочных
-
-
-
-|  |  |
+| Задача | Инструменты |
 | :--- | :--- |
-|  |  |
+| Проектирование | Visual Paradigm |
+| Кодирование и отладка | Rider, Visual Studio |
+| Дизайн уровней | Unity3d |
+| Сборка билдов | Unity3d, XCode |
+| 3D-моделирование | 3DMax, ZBrush, Blender |
+| Текстурирование | Substance Painter, Photoshop |
+| Работа с 2D-графикой | Photoshop, CorelDraw, GIMP |
 
-{% file src=".gitbook/assets/maket\_450x1600.tiff" caption="вапвапвап" %}
+
 
 
 
