@@ -6,19 +6,29 @@ description: О процессах разработке сейчас и завт
 
 ## Что мы используем?
 
-#### Основные инструменты
+#### Основные инструменты:
 
 | Задача | Инструменты |
 | :--- | :--- |
-| Проектирование | Visual Paradigm |
-| Кодирование и отладка | Rider, Visual Studio |
+| Проектирование | **Visual Paradigm** |
+| Кодирование и отладка | **Rider**, **Visual Studio**  |
 | Дизайн уровней | Unity3d |
 | Сборка билдов | Unity3d, XCode |
-| 3D-моделирование | 3DMax, ZBrush, Blender |
-| Текстурирование | Substance Painter, Photoshop |
-| Работа с 2D-графикой | Photoshop, CorelDraw, GIMP |
+| 3D-моделирование | **3DMax**, ZBrush, Blender |
+| Текстурирование | **Substance Painter, Photoshop** |
+| Работа с 2D-графикой | **Photoshop, CorelDraw**, GIMP |
+| Командная разработка | Gitlab, Git, GitExtension, SourceTree |
+| Другие задачи | Audacity, Handbrake, FRAPS, различные онлайн сервисы |
 
+{% hint style="warning" %}
+**Жирным** выделены инструменты, которые используются без лицензии или по ограниченной лицензии
+{% endhint %}
 
+#### Будут внедрены:
+
+| Задача | Инструмент |
+| :--- | :--- |
+|  |  |
 
 
 
