@@ -6,7 +6,7 @@ description: О процессах разработке сейчас и завт
 
 ### Что мы используем?
 
-{% page-ref page="kak-my-razrabatyvaem.md" %}
+
 
 
 
